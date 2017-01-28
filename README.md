@@ -18,7 +18,7 @@
 [![A taste of Austria](https://i.vimeocdn.com/video/510079620.webp?mw=980&mh=540)](https://vimeo.com/121649600)
 
 - [A taste of Austria](https://vimeo.com/121649600) - Beautiful video showcasing Austrias stunning landscapes.
-- [A taste of Vienna](https://vimeo.com/156161909)) - Gorgeous video showcasing Vienna.
+- [A taste of Vienna](https://vimeo.com/156161909) - Gorgeous video showcasing Vienna.
 
 ## Articles
 
