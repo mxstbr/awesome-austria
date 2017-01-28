@@ -2,7 +2,10 @@
 
 Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-# The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
+## READ THIS
+
+- **The pull request should have a useful title.** Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
+- **Leave the HTML comments in the PR body.** If they are removed, we assume these guidelines have not been followed and fail the CI build.
 
 ## Table of Contents
 
