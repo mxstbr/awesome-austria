@@ -1,0 +1,10 @@
+language: node_js
+dist: trusty
+node_js:
+  - 7
+script:
+  - npm install danger
+  - ./node_modules/.bin/danger
+cache:
+  directories:
+    - node_modules
