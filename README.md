@@ -11,6 +11,7 @@
 - [Meetups](#meetups)
 	- [Vienna](#vienna)
 	- [Linz](#linz)
+	- [Graz](#graz)
 - [Conferences](#conferences)
 
 ## Videos
@@ -38,6 +39,10 @@
 ### Linz
 
 - [StahlstadtJS](https://www.meetup.com/de-DE/stahlstadt-js/) - JavaScript meetup in Linz, roughly every two months.
+
+### Graz
+
+- [GrazJS](https://www.meetup.com/grazjs) - JavaScript meetup in Graz, every second Tuesday of even numbered months.
 
 ## Conferences
 
