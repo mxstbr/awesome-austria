@@ -35,6 +35,7 @@
 
 - [ViennaJS](https://meetup.com/ViennaJS) - JavaScript meetup in Vienna, every last Wednesday of the month.
 - [ReactVienna](https://meetup.com/Vienna-ReactJS-meetup) - React.js meetup in Vienna, once a month.
+- [AngularVienna](https://www.meetup.com/Angular-Vienna) - Angular meetup in Vienna, once a month.
 
 ### Linz
 
