@@ -16,20 +16,14 @@
 
 ## Videos
 
-[![A taste of Austria](https://i.vimeocdn.com/video/510079620.webp?mw=980&mh=540)](https://vimeo.com/121649600)
-
 - [A taste of Austria](https://vimeo.com/121649600) - Beautiful video showcasing Austrias stunning landscapes.
 - [A taste of Vienna](https://vimeo.com/156161909) - Gorgeous video showcasing Vienna.
 
 ## Articles
 
-[![Schnitzel with Potatosalad](https://img.buzzfeed.com/buzzfeed-static/static/2017-01/25/12/asset/buzzfeed-prod-web-09/sub-buzz-19866-1485365583-1.jpg?crop=980:566;0,119)](https://www.buzzfeed.com/philippjahner/fo-schnitzel)
-
 - [16 austrian snacks the rest of the world urgently needs](https://www.buzzfeed.com/philippjahner/fo-schnitzel) - Don't look at this if you're hungry.
 
 ## Meetups
-
-[![ReactVienna](https://raw.githubusercontent.com/react-vienna/brand/master/Hero.jpg)](https://meetup.com/Vienna-ReactJS-meetup)
 
 ### Vienna
 
