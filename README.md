@@ -17,6 +17,7 @@
 	- [Vienna](#vienna-1)
 	- [Salzburg](#salzburg)
 	- [Innsbruck](#innsbruck)
+- [Hackspaces](#hackspaces]
 
 ## Videos
 
@@ -79,6 +80,13 @@
 
 - [Ambras Castle](http://www.schlossambras-innsbruck.at/en/) - a Renaissance castle and palace located in the hills above Innsbruck.
 - [Tyrolean State Museum](http://www.tiroler-landesmuseen.at/page.cfm?vpath=haeuser/ferdinandeum/haus&switchlocale=en_US) - Shows an artistic journey through the Tyrolean history from prehistoric times and the Roman era through to the Early Middle Ages and the modern era.
+
+## Hackspaces
+- [Metalab](https://metalab.at) in Vienna - open social space and workshop near city hall; hosts usergroups.
+- [/dev/lol](https://www.devlol.org/wiki/DevLoL) in Linz - a small Hackspace at the foot of the Schlossberg.
+- [Realraum](https://realraum.at) in Graz - a hackspace with a biohacking lab.
+- [Chaostreff Salzburg](https://sbg.chaostreff.at/) in Salzburg - a cosy hackspace in the ARGE Kultur.
+
 
 ## License
 
