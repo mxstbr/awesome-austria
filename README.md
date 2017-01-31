@@ -12,6 +12,8 @@
     - [Vienna](#vienna)
     - [Linz](#linz)
     - [Graz](#graz)
+    - [Innsbruck](#innsbruck)
+    - [Hagenberg](#hagenberg)
 - [Conferences](#conferences)
 - [Museums](#museums)
     - [Vienna](#vienna-1)
@@ -50,6 +52,9 @@
 
 ### Innsbruck
 - [Web&Speck](https://www.meetup.com/webundspeck/) - Webfolk meetup in Innsbruck, every two or three months.
+
+### Hagenberg
+- [fhLUG](http://fhlug.at) - FH Hagenberg Linux User Group.
 
 ## Conferences
 - [AgentConf](http://www.agent.sh/) - Tech conference in Dornbirn.
