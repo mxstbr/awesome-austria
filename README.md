@@ -49,6 +49,10 @@
 
 - [GrazJS](https://www.meetup.com/grazjs) - JavaScript meetup in Graz, every second Tuesday of even numbered months.
 
+### Innsbruck
+
+- [Web&Speck](https://www.meetup.com/webundspeck/) - Webfolk meetup in Innsbruck, every two or three months.
+
 ## Conferences
 
 - [AgentConf](http://www.agent.sh/) - Tech conference in Dornbirn.
