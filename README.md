@@ -37,7 +37,8 @@
 
 ### Linz
 
-- [StahlstadtJS](https://www.meetup.com/de-DE/stahlstadt-js/) - JavaScript meetup in Linz, roughly every two months.
+- [StahlstadtJS](https://www.meetup.com/de-DE/stahlstadt-js/) [[Slack]](http://stahlstadt.slack.com) - JavaScript meetup in Linz, roughly every two months.
+- ~~[RUGL](https://www.meetup.com/Ruby-User-Group-Linz-RUGL/) - Ruby meetup in Linz, now defunct, but looking for a new maintainer.~~
 
 ### Graz
 
