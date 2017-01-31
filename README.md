@@ -13,6 +13,11 @@
 	- [Linz](#linz)
 	- [Graz](#graz)
 - [Conferences](#conferences)
+- [Museums](#museums)
+	- [Vienna](#vienna-1)
+	- [Salzburg](#salzburg)
+	- [Innsbruck](#innsbruck)
+- [Hackspaces](#hackspaces]
 
 ## Videos
 
@@ -49,6 +54,40 @@
 
 - [AgentConf](http://www.agent.sh/) - Tech conference in Dornbirn.
 - [ScriptConf](https://scriptconf.org) - JavaScript conference in Linz.
+
+## Museums
+
+### Vienna
+
+- [Art History Museum](https://www.khm.at/en) - With its vast array of eminent works and the largest Bruegel collection in the world, it is considered one of the most eminent museums in the world.
+- [Belvedere Palace Museum](https://www.belvedere.at/en) - This baroque architectural jewel consists of two palaces (Upper and Lower Belvedere), which today house Austrian art from the Middle Ages to the present day.
+- [Museum of Modern Art - mumok](https://www.mumok.at/en) - Focuses its attention on the art of the 20th and 21st centuries. Works by Andy Warhol, Claes Oldenburg, Pablo Picasso, Yoko Ono, Günter Brus and Gerhard Richter invite visitors to engage with contemporary art.
+- [Leopold Museum](http://www.leopoldmuseum.org/en) - hundreds of masterworks of Austrian modern art collected by the passionate art lover Dr. Rudolf Leopold are shown in the Leopold Museum at MuseumsQuartier near the Imperial Palace.
+- [Natural History Museum](http://www.nhm-wien.ac.at/en) - From insects to gemstones and minerals and pterodactyls, the Habsburgs united everything under the roof of this museum near the Imperial Palace.
+
+### Salzburg
+
+- [Salzburg Museum](http://www.salzburgmuseum.at/index.php?id=1773) - The museum of artistic and cultural history for the city and region of Salzburg.
+- [Salzburg Residence](http://www.salzburg-burgen.at/en/) -For centuries the Archbishops of Salzburg resided at the Salzburg Residence and used the palace to present and represent their political status.
+- [Mozart Residence](http://www.mozarteum.at/en/museums/mozarts-residence.html) - The biographies of the family members and the authentic impressions of everyday family life fill the house with their spirit to this day and allow visitors to experience Mozart anew.
+
+### Graz
+
+ - [Natural History Museum](https://www.museum-joanneum.at/en/natural-history-museum "Natural History Museum") - It houses fascinating exhibitions by all the natural sciences departments of the Joanneum Universal Museum.
+ - [Kunsthaus Graz](https://www.museum-joanneum.at/en/kunsthaus-graz "Kunsthaus Graz") - The Kunsthaus Graz, a joint undertaking of the Province of Styria and the City of Graz as part of the Universalmuseum Joanneum, is committed to a vibrant engagement with art.
+ - [Styrian Armoury](http://www.landeszeughaus.at/ "Styrian Armoury") - The Styrian Armoury houses an inventory of 32,000 individual pieces accumulated over a period of three centuries.
+
+### Innsbruck
+
+- [Ambras Castle](http://www.schlossambras-innsbruck.at/en/) - a Renaissance castle and palace located in the hills above Innsbruck.
+- [Tyrolean State Museum](http://www.tiroler-landesmuseen.at/page.cfm?vpath=haeuser/ferdinandeum/haus&switchlocale=en_US) - Shows an artistic journey through the Tyrolean history from prehistoric times and the Roman era through to the Early Middle Ages and the modern era.
+
+## Hackspaces
+- [Metalab](https://metalab.at) in Vienna - open social space and workshop near city hall; hosts usergroups.
+- [/dev/lol](https://www.devlol.org/wiki/DevLoL) in Linz - a small Hackspace at the foot of the Schlossberg.
+- [Realraum](https://realraum.at) in Graz - a hackspace with a biohacking lab.
+- [Chaostreff Salzburg](https://sbg.chaostreff.at/) in Salzburg - a cosy hackspace in the ARGE Kultur.
+
 
 ## License
 
