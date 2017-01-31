@@ -13,6 +13,10 @@
 	- [Linz](#linz)
 	- [Graz](#graz)
 - [Conferences](#conferences)
+- [Museums](#museums)
+	- [Vienna](#vienna-1)
+	- [Salzburg](#salzburg)
+	- [Innsbruck](#innsbruck)
 
 ## Videos
 
