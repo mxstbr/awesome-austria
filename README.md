@@ -20,12 +20,16 @@
 
 - [A taste of Austria](https://vimeo.com/121649600) - Beautiful video showcasing Austrias stunning landscapes.
 - [A taste of Vienna](https://vimeo.com/156161909) - Gorgeous video showcasing Vienna.
+- [The national anthem](https://www.youtube.com/watch?v=w9MbIH8GRkY) - In use since 1946.
+- [The unofficial anthem](https://www.youtube.com/watch?v=KMSa_xb2h5U) - "I am from Austria" by Reinhard Fendrich.
 
 ## Articles
 
 [![Schnitzel with Potatosalad](https://img.buzzfeed.com/buzzfeed-static/static/2017-01/25/12/asset/buzzfeed-prod-web-09/sub-buzz-19866-1485365583-1.jpg?crop=980:566;0,119)](https://www.buzzfeed.com/philippjahner/fo-schnitzel)
 
+- [An almost complete history of Austria in less than 1000 words](http://tourmycountry.com/austria/short-history.htm) - Short look at the long history of our small country.
 - [16 austrian snacks the rest of the world urgently needs](https://www.buzzfeed.com/philippjahner/fo-schnitzel) - Don't look at this if you're hungry.
+- [Specialty Coffeeshop Map of Vienna](http://viennawurstelstand.com/food-drink/coffee-and-cigrettes/12-cafes-where-to-get-your-third-wave-coffee-in-vienna.html) - In case you need your fix of third-wave coffee.
 
 ## Meetups
 
