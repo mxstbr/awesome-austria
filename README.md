@@ -69,6 +69,12 @@
 - [Salzburg Residence](http://www.salzburg-burgen.at/en/) -For centuries the Archbishops of Salzburg resided at the Salzburg Residence and used the palace to present and represent their political status.
 - [Mozart Residence](http://www.mozarteum.at/en/museums/mozarts-residence.html) - The biographies of the family members and the authentic impressions of everyday family life fill the house with their spirit to this day and allow visitors to experience Mozart anew.
 
+### Graz
+
+ - [Natural History Museum](https://www.museum-joanneum.at/en/natural-history-museum "Natural History Museum") - It houses fascinating exhibitions by all the natural sciences departments of the Joanneum Universal Museum.
+ - [Kunsthaus Graz](https://www.museum-joanneum.at/en/kunsthaus-graz "Kunsthaus Graz") - The Kunsthaus Graz, a joint undertaking of the Province of Styria and the City of Graz as part of the Universalmuseum Joanneum, is committed to a vibrant engagement with art.
+ - [Styrian Armoury](http://www.landeszeughaus.at/ "Styrian Armoury") - The Styrian Armoury houses an inventory of 32,000 individual pieces accumulated over a period of three centuries.
+
 ### Innsbruck
 
 - [Ambras Castle](http://www.schlossambras-innsbruck.at/en/) - a Renaissance castle and palace located in the hills above Innsbruck.
