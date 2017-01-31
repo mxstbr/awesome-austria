@@ -47,6 +47,7 @@
 
 ## Conferences
 
+- [AgentConf](http://www.agent.sh/) - Tech conference in Dornbirn.
 - [ScriptConf](https://scriptconf.org) - JavaScript conference in Linz.
 
 ## License
