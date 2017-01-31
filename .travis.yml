@@ -4,6 +4,7 @@ node_js:
   - 7
 script:
   - npm install danger
+  - ./node_modules/.bin/danger -V
   - ./node_modules/.bin/danger
 cache:
   directories:

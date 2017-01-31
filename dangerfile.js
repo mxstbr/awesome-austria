@@ -15,6 +15,6 @@ if (!hasGoodTitle) {
 }
 
 if (text.length > 0) {
-	fail('Oops, something went wrong...')
+	fail()
 	markdown(`\nThanks for the pull request, @${danger.github.pr.user.login}! I took a look to make sure it's ready for merging, and noticed you ${text}\n\nCan you please update the PR to address this?`)
 }
