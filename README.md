@@ -14,6 +14,7 @@
     - [Graz](#graz)
     - [Innsbruck](#innsbruck)
     - [Hagenberg](#hagenberg)
+    - [Vorarlberg](#vorarlberg)
 - [Conferences](#conferences)
 - [Museums](#museums)
     - [Vienna](#vienna-1)
@@ -55,6 +56,10 @@
 
 ### Hagenberg
 - [fhLUG](http://fhlug.at) - FH Hagenberg Linux User Group.
+
+### Vorarlberg
+
+- [VlbgWebDev](https://www.meetup.com/de-DE/VlbgWebDev/) - General web development meetup in Vorarlberg, every second tuesday of the month.
 
 ## Conferences
 - [AgentConf](http://www.agent.sh/) - Tech conference in Dornbirn.
