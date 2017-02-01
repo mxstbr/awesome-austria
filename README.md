@@ -21,6 +21,7 @@
     - [Linz](#linz-1)
     - [Salzburg](#salzburg)
     - [Innsbruck](#innsbruck)
+    - [Graz](#graz-1)
 - [Hackspaces](#hackspaces)
 
 ## Videos
