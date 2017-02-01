@@ -42,6 +42,7 @@
 - [ViennaJS](https://meetup.com/ViennaJS) - JavaScript meetup in Vienna, every last Wednesday of the month.
 - [ReactVienna](https://meetup.com/Vienna-ReactJS-meetup) - React.js meetup in Vienna, once a month.
 - [AngularVienna](https://www.meetup.com/Angular-Vienna) - Angular meetup in Vienna, once a month.
+- [Node.js Vienna](https://www.meetup.com/nodejs-vienna/) - Node.js meetup in Vienna, once a month.
 
 ### Linz
 - [StahlstadtJS](https://www.meetup.com/de-DE/stahlstadt-js/) [[Slack]](http://stahlstadt.slack.com) - JavaScript meetup in Linz, roughly every two months.
