@@ -21,6 +21,7 @@
     - [Linz](#linz-1)
     - [Salzburg](#salzburg)
     - [Innsbruck](#innsbruck)
+    - [Graz](#graz-1)
 - [Hackspaces](#hackspaces)
 
 ## Videos
@@ -51,6 +52,8 @@
 
 ### Graz
 - [GrazJS](https://www.meetup.com/grazjs) - JavaScript meetup in Graz, every second Tuesday of even numbered months.
+- [pyGRAZ](https://www.meetup.com/PyGRAZ/) - Python meetup in Graz, once a month.
+- [Scrum User Group Graz](https://www.meetup.com/Scrum-User-Group-Graz/) - Scrum User Group Graz, once a month.
 
 ### Innsbruck
 - [Web&Speck](https://www.meetup.com/webundspeck/) - Webfolk meetup in Innsbruck, every two or three months.
