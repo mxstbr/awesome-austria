@@ -16,6 +16,7 @@
     - [Hagenberg](#hagenberg)
     - [Vorarlberg](#vorarlberg)
 - [Conferences](#conferences)
+- [Barcamps](#barcamps)
 - [Museums](#museums)
     - [Vienna](#vienna-1)
     - [Linz](#linz-1)
@@ -68,6 +69,9 @@
 ## Conferences
 - [AgentConf](http://www.agent.sh/) - Tech conference in Dornbirn.
 - [ScriptConf](https://scriptconf.org) - JavaScript conference in Linz.
+
+## Barcamps
+- [Barcamp Salzburg](https://barcamp-sbg.at/) - Barcamp "The Next Web" in Salzburg.
 
 ## Museums
 
