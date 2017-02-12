@@ -70,6 +70,7 @@
 ## Conferences
 - [AgentConf](http://www.agent.sh/) - Tech conference in Dornbirn.
 - [ScriptConf](https://scriptconf.org) - JavaScript conference in Linz.
+- [Barcamp Salzburg](https://barcamp-sbg.at/) - Barcamp "The Next Web" in Salzburg.
 
 ## Museums
 
