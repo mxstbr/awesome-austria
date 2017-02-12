@@ -22,6 +22,8 @@
     - [Salzburg](#salzburg)
     - [Innsbruck](#innsbruck)
     - [Graz](#graz-1)
+- [Music](#music)
+	- [Vienna](#vienna-2)
 - [Hackspaces](#hackspaces)
 
 ## Videos
@@ -94,6 +96,12 @@
 ### Innsbruck
 - [Ambras Castle](http://www.schlossambras-innsbruck.at/en/) - a Renaissance castle and palace located in the hills above Innsbruck.
 - [Tyrolean State Museum](http://www.tiroler-landesmuseen.at/page.cfm?vpath=haeuser/ferdinandeum/haus&switchlocale=en_US) - Shows an artistic journey through the Tyrolean history from prehistoric times and the Roman era through to the Early Middle Ages and the modern era.
+
+## Music
+
+### Vienna
+- [Staatsoper](http://www.wiener-staatsoper.at/) - The Vienna State Opera.
+- [Musikverein](https://en.wikipedia.org/wiki/Musikverein) - World-famous concert venue where the Vienna Philharmonic plays.
 
 ## Hackspaces
 National Forum: [hackerspaces.at](https://discourse.hackerspaces.at/)
