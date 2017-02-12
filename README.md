@@ -2,6 +2,8 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" width="100px" align="right" alt="🇦🇹">
 
+This is bullshit
+
 > A curated list of things that show the awesome side of Austria
 
 ## Contents
