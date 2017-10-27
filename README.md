@@ -60,6 +60,7 @@
 
 ### Innsbruck
 - [Web&Speck](https://www.meetup.com/webundspeck/) - Webfolk meetup in Innsbruck, every two or three months.
+- [ReactJS Tirol](https://www.meetup.com/ReactJS-Tirol/) - React.js meetup in Innsbruck/Wattens, once in few months.
 
 ### Hagenberg
 - [fhLUG](http://fhlug.at) - FH Hagenberg Linux User Group.
