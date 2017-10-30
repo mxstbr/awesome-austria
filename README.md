@@ -116,6 +116,7 @@ National Forum: [hackerspaces.at](https://discourse.hackerspaces.at/)
 - [Realraum](https://realraum.at) in Graz - a hackspace with a biohacking lab.
 - [Chaostreff Salzburg](https://sbg.chaostreff.at/) in Salzburg - a cosy hackspace in the ARGE Kultur.
 - [IT-Syndikat](https://it-syndikat.org/) in Innsbruck - a hackspace in the wild west of Austria
+- [Segmentation Vault](https://segvault.space/) Hackerspace St. Pölten
 
 ## License
 
