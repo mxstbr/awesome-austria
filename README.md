@@ -70,6 +70,9 @@
 
 - [VlbgWebDev](https://www.meetup.com/de-DE/VlbgWebDev/) - General web development meetup in Vorarlberg, every second tuesday of the month.
 
+### Wels
+- [VALUG](https://www.valug.at) - Voralpen Linux Usergroup 
+
 ## Conferences
 - [AgentConf](http://www.agent.sh/) - Tech conference in Dornbirn.
 - [Barcamp Salzburg](https://barcamp-sbg.at/) - Barcamp "The Next Web" in Salzburg.
