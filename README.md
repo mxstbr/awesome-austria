@@ -107,6 +107,7 @@
 ### Vienna
 - [Staatsoper](http://www.wiener-staatsoper.at/) - The Vienna State Opera.
 - [Musikverein](https://en.wikipedia.org/wiki/Musikverein) - World-famous concert venue where the Vienna Philharmonic plays.
+- [Musiktheater Linz](https://www.landestheater-linz.at/musiktheater) - the most modern Music Theatre in Austria
 
 ## Hackspaces
 National Forum: [hackerspaces.at](https://discourse.hackerspaces.at/)
