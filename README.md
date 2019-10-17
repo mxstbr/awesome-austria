@@ -123,6 +123,12 @@ National Forum: [hackerspaces.at](https://discourse.hackerspaces.at/)
 - [IT-Syndikat](https://it-syndikat.org/) in Innsbruck - a hackspace in the wild west of Austria
 - [Segmentation Vault](https://segvault.space/) Hackerspace St. Pölten
 
+## Makerspaces
+
+* [Happylab](https://www.happylab.at/) in Vienna, Salzburg and Berlin.
+* [Maker Autria](https://www.makeraustria.at/) in Vienna.
+* [Grand Garage](https://www.grandgarage.eu/) in Linz.
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
