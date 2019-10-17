@@ -25,6 +25,7 @@
 - [Music](#music)
 	- [Vienna](#vienna-2)
 - [Hackspaces](#hackspaces)
+- [Makerspaces](#makerspaces)
 
 ## Videos
 
